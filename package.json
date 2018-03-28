@@ -1,0 +1,14 @@
+{
+  "name": "ether-guest-list",
+  "version": "1.0.0",
+  "description": "An ethereum guest list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor OHara",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "github:ethereum/web3.js"
+  }
+}
